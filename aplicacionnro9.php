@@ -1,6 +1,11 @@
 <?php
 
-$lapicera  = array("color" => "rojo" ,"marca" => "", "trazo" => "", "precio" => "" );
-
+$lapicera  = array("color" => "" ,"marca" => "", "trazo" => "", "precio" => "" );
+/*
+foreach ($lapicera as $dato ) 
+{
+	$dato
+}
+*/
 
 ?>
