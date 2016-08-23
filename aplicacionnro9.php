@@ -13,7 +13,10 @@ foreach ($lapicera as $dato )
 	//$dato["color"] = "rojo";
 	
 }
-
+foreach ($lapicera as $dato)
+ {
+ 	echo $dato. "<br>";
+}
 
 
 ?>
